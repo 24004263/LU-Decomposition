@@ -28,6 +28,12 @@ print(L)
 print(U)
 */
 ```
+## Algorithm
+1.LU Decomposition: Factorize matrix A into its LU decomposition using partial pivoting.
+
+2.Solve Linear System: Use the LU factors to solve the linear system Ax = B.
+
+
 (ii) To find the LU Decomposition of a matrix
 ```
 /*
